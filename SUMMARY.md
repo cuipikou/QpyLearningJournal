@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [学习Python之前]
+* 学习Python之前
   - [markdown](markdown.md)
   
   - [gitbook](gitbook.md)
