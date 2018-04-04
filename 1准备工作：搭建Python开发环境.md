@@ -12,6 +12,7 @@
 戳 [Python官方下载](https://www.python.org/downloads/)
 选择对应系统下的Python版本（本文将在Windows下的Python3进行）
 ![选择python版本](https://s1.ax2x.com/2018/04/03/6b2qa.png)
+
 P.S. 目前Python2应用范围较广，但Python核心团队将在2020年元旦停止对Python2的官方支持。
 因此，不必再纠结版本学哪个版本了，**Python3**才是大势所趋呀~
 
