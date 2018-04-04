@@ -6,6 +6,7 @@
 主要有两部分：
 
 - 安装Python
+
 烹饪食材，需要煤气和电等能源；学习Python语言，需要安装Python来驱动。
    
 戳 [Python官方下载](https://www.python.org/downloads/)
@@ -15,6 +16,7 @@ P.S. 目前Python2应用范围较广，但Python核心团队将在2020年元旦�
 因此，不必再纠结版本学哪个版本了，**Python3**才是大势所趋呀~
 
 - 安装IDE
+
 IDE (Integrated Development Environment)，翻译过来就是“集成开发环境”。唔，感觉有点抽象。编程的IDE，好比做菜用的厨房，一切操作都在这里进行。
 IDE的种类繁多，有Python自带的，也有第三方开发的。选择恐惧症上线……
 
