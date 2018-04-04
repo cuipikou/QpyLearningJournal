@@ -15,6 +15,7 @@
     * [前言](README.md)
     
 ![新建SUMMARY][3]
+
 接下来，在gitbook创建书本的界面上，找到"github"，选择对应的库，创建一本书。
 
 ![在gitbook上创建一本书][4]
