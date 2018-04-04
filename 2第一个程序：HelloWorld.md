@@ -10,6 +10,7 @@
 
 
 打开pycharm, 进入厨房；Create New Project，准备做一道新菜~
+
 ![打开pycharm][1]
   
 菜做好了要端到哪里呢？选择储存的路径
